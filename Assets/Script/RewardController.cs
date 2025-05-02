@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
 using DG.Tweening.Core;
-using Microsoft.Unity.VisualStudio.Editor;
 using UnityEngine.UI;
 
 public class RewardController : MonoBehaviour
